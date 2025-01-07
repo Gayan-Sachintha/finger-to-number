@@ -25,7 +25,7 @@ This project is a real-time finger counting system using OpenCV and MediaPipe. I
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/finger-number-recognition.git
+   [git clone https://github.com/<your-username>/finger-number-recognition.git](https://github.com/Gayan-Sachintha/finger-to-number.git)
    cd finger-number-recognition
    ```
 
